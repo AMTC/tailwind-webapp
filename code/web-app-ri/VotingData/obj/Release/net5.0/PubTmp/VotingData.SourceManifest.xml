@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingData\obj\Release\net5.0\PubTmp\Out\" />
+</sitemanifest>

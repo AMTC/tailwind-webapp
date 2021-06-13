@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingData\\VotingData.csproj": {}
+  },
+  "projects": {
+    "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingData\\VotingData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingData\\VotingData.csproj",
+        "projectName": "VotingData",
+        "projectPath": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingData\\VotingData.csproj",
+        "packagesPath": "C:\\Users\\trainer\\.nuget\\packages\\",
+        "outputPath": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trainer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/aiomsf1/63c65a93-999e-4e6f-b3f5-33441b003031/_packaging/CustomerDbPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

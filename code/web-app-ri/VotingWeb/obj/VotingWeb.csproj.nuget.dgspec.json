@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingWeb\\VotingWeb.csproj": {}
+  },
+  "projects": {
+    "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingWeb\\VotingWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingWeb\\VotingWeb.csproj",
+        "projectName": "VotingWeb",
+        "projectPath": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingWeb\\VotingWeb.csproj",
+        "packagesPath": "C:\\Users\\trainer\\.nuget\\packages\\",
+        "outputPath": "E:\\azure-projects\\reference-architectures\\web-app\\code\\web-app-ri\\VotingWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trainer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/aiomsf1/63c65a93-999e-4e6f-b3f5-33441b003031/_packaging/CustomerDbPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.76, )"
+            },
+            "StackExchange.Redis.StrongName": {
+              "target": "Package",
+              "version": "[1.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

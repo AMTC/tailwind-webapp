@@ -1,0 +1,188 @@
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\app.config
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\libman.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.exe
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.dll.config
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.deps.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.runtimeconfig.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.runtimeconfig.dev.json
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.pdb
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.Views.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.Views.pdb
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.AssemblyReference.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.AssemblyInfoInputs.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.AssemblyInfo.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.CoreCompileInputs.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorAssemblyInfo.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorAssemblyInfo.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\staticwebassets\VotingWeb.StaticWebAssets.Manifest.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\staticwebassets\VotingWeb.StaticWebAssets.xml
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\VotingWeb.styles.css
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.TagHelpers.input.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.TagHelpers.output.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorCoreGenerate.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorTargetAssemblyInfo.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorTargetAssemblyInfo.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.Views.pdb
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.CopyComplete
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.dll
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.pdb
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.genruntimeconfig.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\app.config
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\appsettings.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\bundleconfig.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\libman.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.exe
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.dll.config
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.deps.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.runtimeconfig.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.runtimeconfig.dev.json
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.pdb
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.Views.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\VotingWeb.Views.pdb
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.AssemblyReference.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.AssemblyInfoInputs.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.AssemblyInfo.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.CoreCompileInputs.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorAssemblyInfo.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorAssemblyInfo.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\staticwebassets\VotingWeb.StaticWebAssets.Manifest.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\staticwebassets\VotingWeb.StaticWebAssets.xml
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\VotingWeb.styles.css
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.TagHelpers.input.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.TagHelpers.output.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorCoreGenerate.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorTargetAssemblyInfo.cache
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.RazorTargetAssemblyInfo.cs
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.Views.pdb
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.csproj.CopyComplete
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.dll
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.pdb
+E:\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingWeb\obj\Debug\netcoreapp3.1\VotingWeb.genruntimeconfig.cache

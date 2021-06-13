@@ -1,0 +1,4 @@
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingData\obj\Debug\netcoreapp2.1\VotingData.csproj.AssemblyReference.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingData\obj\Debug\netcoreapp2.1\VotingData.AssemblyInfoInputs.cache
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingData\obj\Debug\netcoreapp2.1\VotingData.AssemblyInfo.cs
+E:\BOOT CAMPS\aiodev.08 - Implementare PoC cu GIT, DOCKER, AZURE DEVOPS, KUBERNETES\azure-projects\reference-architectures\web-app\code\web-app-ri\VotingData\obj\Debug\netcoreapp2.1\VotingData.csproj.CoreCompileInputs.cache

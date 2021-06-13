@@ -1,0 +1,16 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.3",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "SERVICEBUS_CONNECTION_STRING",
+      "queueName": "votingqueue",
+      "isSessionsEnabled": false,
+      "name": "myQueueItem"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/VoteCounter.dll",
+  "entryPoint": "FunctionApp.VoteCounter.Run"
+}

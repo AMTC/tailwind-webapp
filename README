@@ -1,0 +1,82 @@
+Tailwind Business Case
+
+Tailwind  is an manufacturer of wind turbines and, throughout the years, has built an strong partnership with Microsoft and also a client for Azure Cloud services.
+
+The company has recently completed an POC for an web application and they are looking to prepare for making this PROD ready.  The end solution needs to meet company agreed security standards (eg: best practices around availability, confidentiality & integrity) and have ability to scale to large number of users (5k+) from different parts of the world.  
+
+They are now currently looking for following deliverables:
+•	Solution & infrastructure diagram
+•	Infrastructure as a code via Azure Bicep  for easy deployment
+•	Azure DevOps pipelines to deploy the infrastructure
+•	Estimated effort needed, team composition, costs
+
+To do’s:
+Part of the business case, provide the description of the approach, and high level plan to tackle the deliverables. Provide samples and/or deliverables .
+Feel free to add any other required components that would achieve the Tailwind objectives
+
+Note: the web application components consist in an:
+•	.net web app (pick a simple hello world )
+•	an SQL database
+•	an Storage Account
+
+We are looking to evaluate the thought process, deliverables, presentation of the solution to the Tailwind stakeholders in order to obtain approval for this initiative
+
+
+Tailwind Business Solution
+
+This architecture includes best practices for scalability and performance in an Azure hosted web app for worldwide targeting.
+
+A.Azure Components
+
+1.WEB APP
+A typical modern app might include both a website and one more REStfull APIs. A web API might be consumed by browser clients through AJAX, by native client applications, or by server-side app.
+
+2.FRONT DOOR
+A L7 Load Balancer that also provides WAF that protects the application from common exploits and vulnerabilities.
+
+Front Door can perform SSL offload and also reduces the total number of TCP connections with the backend web app. This improves scalability because the web app manages a smaller volume of SSL handshakes and TCP connections. 
+
+These performance gains apply even if you forward the requests to the web app as HTTPS, due to the high level of connection reuse.
+
+3.FUNCTION APP
+Use Functions App to run background tasks. "Functions" are invoked by a trigger, such a timer event or a message being placed on a queue.
+
+4.QUEUE
+The app queues background tasks by putting a message onto a Azure Queue Storage. The message triggers a function app.
+
+5.CACHE
+Use Azure Cache for Redis to store, semi-static transaction data, session state, HTML output. 
+ 
+6.CDN
+Use Azure CDN to cache static content. The main benefit of a CDN is to reduce latency for users, because content is cached at an edge server that is geographically close to the user. CDN can also reduce load on the application, because that traffic is not being handled by the application.
+
+If your app consists mostly of static pages, consider using CDN to cache the entire app. Otherwise, put static content such as images, CSS, and HTML files, into Azure Storage and use CDN to cache those files.
+
+(!) Azure CDN cannot serve content that requires authentication.
+
+7.DATA STORAGE
+Use Azure SQL Databse for relational data. For non-relational data (like reviews) use Cosmo DB.
+
+8.SEARCH
+Use Azure Cognitive Search to add search functionality such as search suggestions, fuzzy search, and language specific search.
+
+Azure Search removes the overhead of performing complex data searches from the primary data store, and it can scale to handle load. See Scale resource levels for query and indexing workloads in Azure Search.
+
+9.DNS
+Azure DNS is a hosting service for name resolution.
+
+
+We recommend creating the web app and the web API as separate App Service apps. This design lets you run them in separate App Service plans so they can be scaled independently. If you don't need that level of scalability initially, you can deploy the apps into the same plan and move them into separate plans later if necessary.
+
+B.Security considerations
+
+Restrict incoming traffic
+Configure the application to accept traffic only from Front Door. This ensures that all traffic goes through the WAF before reaching the app. 
+
+Cross-Origin Resource Sharing (CORS)
+If you create a website and web API as separate apps, the website cannot make client-side AJAX calls to the API unless you enable CORS.
+
+App Services has built-in support for CORS, without needing to write any application code. See Consume an API app from JavaScript using CORS. Add the website to the list of allowed origins for the API.
+
+SQL Database encryption
+Use Transparent Data Encryption if you need to encrypt data at rest in the database. This feature performs real-time encryption and decryption of an entire database (including backups and transaction log files) and requires no changes to the application.
