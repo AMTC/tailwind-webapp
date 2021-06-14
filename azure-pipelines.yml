@@ -20,5 +20,5 @@ steps:
     location: 'East US 2'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/AMTC/tailwind-webapp/main/webappdeploy.json'
-   overrideParameters: '-projectName tailwindapp' 
-   deploymentMode: 'Complete'
+    overrideParameters: '-projectName tailwindapp' 
+    deploymentMode: 'Complete'
